@@ -4,7 +4,7 @@
 
 ## PROJECT DESCRIPTION
 
-Design and evaluation of a non-intrusive packet delivery monitoring service on a Network-on-Chip (NoC) that focus on real-time Systems-on-Chip (SoC). Recent works show that using adaptive routing or optimization techniques are solutions to improve its latency. These strategies usually need to know the traffic behaviour previously to make changes. A monitoring service is indicated as a solution to this issue, but since silicon consumption is a restriction in these projects, most of them use routers or other NoC's resources to perform such task. This design was based on a strategy that does not interfere with the NoC operation to collect and to evaluate traffic information.
+Design and evaluation of a non-intrusive packet delivery monitoring service on a Network-on-Chip (NoC) that focus on real-time Systems-on-Chip (SoC) written in C++/SystemC. Recent works show that using adaptive routing or optimization techniques are solutions to improve its latency. These strategies usually need to know the traffic behaviour previously to make changes. A monitoring service is indicated as a solution to this issue, but since silicon consumption is a restriction in these projects, most of them use routers or other NoC's resources to perform such task. This design was based on a strategy that does not interfere with the NoC operation to collect and to evaluate traffic information.
 
 ## DOCUMENTATION
 
